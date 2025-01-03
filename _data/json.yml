@@ -1,0 +1,31 @@
+- key: name
+  value: Petar Risteski
+- key: description
+  value: Ruby on Rails Engineer since 2015
+- key: skills
+  value:
+    - Ruby/Rails
+    - JavaScript/Stimulus/Hotwire/TailwindCSS
+    - PostgreSQL/ClickHouse
+    - CloudFlare
+    - DigitalOcean/Heroku
+- key: education
+  value:
+    - Faculty of Electrical Engineering and Computer Technologies
+    - Bachelor's Degree in Computer and System Engineering, Automation, and Robotics
+- key: address
+  value: Skopje, Macedonia
+- key: contact
+  value:
+    - value: petar@allorasoftware.com
+      url: mailto:petar@allorasoftware.com
+    - value: risteskipetar3@gmail.com
+      url: mailto:risteskipetar3@gmail.com
+- key: socials
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/petar-risteski/
+    - value: GitHub
+      url: http://github.com/risteskipetar
+    - value: Instagram
+      url: https://www.instagram.com/petar.rx
